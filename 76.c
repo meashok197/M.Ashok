@@ -13,8 +13,8 @@ d=1;
 break;
 }}
 if(d==1)
-printf("\n it is a prime number");
+printf("\n it is a not a composite number");
 else
-printf("\n it is not prime number");
+printf("\n it is a composite number");
 getch();
 }
